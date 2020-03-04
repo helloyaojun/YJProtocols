@@ -4,11 +4,11 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - YJProtocols (0.1.0)
+  - YJProtocols (0.1.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
-  - YJProtocols (from `../`)
+  - YJProtocols (from `../YJProtocols.podspec`)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
@@ -16,12 +16,12 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   YJProtocols:
-    :path: "../"
+    :path: "../YJProtocols.podspec"
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  YJProtocols: eaa3a4dbb0c4895b7b67d1c74f58e3da63b29878
+  YJProtocols: 73846bf6da33d71112f31f6713ba20dfd2034d1e
 
-PODFILE CHECKSUM: b24ec8b9b10bc333091da16c2399581626c80ffc
+PODFILE CHECKSUM: 5819e663f68f4cf9712a9ae538c30bb1107a0fd5
 
 COCOAPODS: 1.8.4
