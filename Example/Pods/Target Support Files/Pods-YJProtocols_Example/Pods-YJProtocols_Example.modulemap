@@ -1,0 +1,6 @@
+framework module Pods_YJProtocols_Example {
+  umbrella header "Pods-YJProtocols_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

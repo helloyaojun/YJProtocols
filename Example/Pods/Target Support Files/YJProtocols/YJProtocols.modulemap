@@ -1,0 +1,6 @@
+framework module YJProtocols {
+  umbrella header "YJProtocols-umbrella.h"
+
+  export *
+  module * { export * }
+}
